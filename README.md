@@ -2,7 +2,7 @@
 
 <div align="left"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:FAC172,100:89D5C9&text=&fontSize=20&fontAlignY=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:FAC172,100:89D5C9&text=[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)&fontSize=20&fontAlignY=20&animation=fadeIn)
   
 
   
