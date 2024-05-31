@@ -11,8 +11,8 @@
 
 [![JIYU's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungjiyu&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jungjiyu/github-readme-stats)
 
- <div align=center><h1>👩‍💻 STACKS</h1></div>
-  <div align=center> 
+ <div align=left><h1>👩‍💻 STACKS</h1></div>
+  <div align=left> 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
