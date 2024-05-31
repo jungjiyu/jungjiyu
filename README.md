@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
 
- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
  
 </div>
 
