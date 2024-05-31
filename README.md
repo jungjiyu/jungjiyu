@@ -2,9 +2,8 @@
 
 <div align="left"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:FAC172,100:89D5C9&text=""&fontSize=20&fontAlignY=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:FAC172,100:89D5C9&text=&fontSize=20&fontAlignY=20&animation=fadeIn)
   
-####  :wave: Welcome my github profile !
 
   
  <br/>
