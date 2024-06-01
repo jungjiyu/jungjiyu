@@ -7,7 +7,6 @@
   -->
 
 <h1>🧾 Preview</h1>
-<a href="https://github.com/jungjiyu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jungjiyu&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="jungjiyu's github stats" /></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungjiyu%2Fhit-counter&count_bg=%2390D6B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
