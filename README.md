@@ -11,7 +11,7 @@
 
 [![JIYU's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungjiyu&include_all_commits=true&theme=graywhite&hide_border=true&count_private=true)](https://github.com/jungjiyu/github-readme-stats)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungjiyu&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungjiyu&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungjiyu)](https://github.com/anuraghazra/github-readme-stats)
 
