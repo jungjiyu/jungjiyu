@@ -91,13 +91,40 @@
 
 <br/>
 
-## 💗 Awards & Achievements
+## 💗 Leadership & Community
 
-| 수상/성과 | 주최/주관 | 날짜 |
-|:---|:---|:---:|
-| 🥇 **제15회 ICT 콤플렉스 SW 개발 공모전 최우수상(1위)** | 과학기술정보통신부 / NIPA | 2025.12 |
-| 🎯 **제13회 K-해커톤 본선 진출** | 과학기술정보통신부 / NIPA | 2025.07 |
-| 🥈 **멋쟁이사자처럼 2025 전국 운영진 연합 트렌디톤 최우수상(2위)** | 사단법인 멋쟁이사자처럼 | 2025.02 |
+<details>
+<summary><strong>🔬 CILAB 학부 연구생 (2024.03 - 현재)</strong></summary>
+<br/>
+
+- **StoryBridge 개발**: RabbitMQ 기반 채팅 및 AI 피드백·모니터링 서버 핵심 기능 전담 구현
+- **Observability**: Prometheus(node_exporter, cAdvisor) 및 Grafana로 다수 서버 리소스 통합 관측 및 병목/과부하 탐지 환경 구축
+- **Paper**: 2024 대학생 논문 경진대회 투고 ("자동 지식 그래프 구축 기반 이기종 문서 요약 기법 제안")
+
+</details>
+
+
+<details>
+<summary><strong>🦁 멋쟁이사자처럼 13기 대표 (2025.01 - 2025.12)</strong></summary>
+<br/>
+
+- **Operation**: 40명 규모 다직군 지부 운영 총괄 (모집·온보딩·팀빌딩·일정/산출물 관리)
+- **Mentoring**: 백엔드 기초·심화 투트랙 설계/운영 (JPA·영속성·Spring Security / Redis·RabbitMQ·동시성·모니터링)
+- **Achievement**: 전국 연합 해커톤 Top 49/250(상위 20%) 3개 팀 진출 (단일 대학 최다·공동 1위, 전년 0팀→3팀)
+- **Award**: 팀장으로 지부 멤버들과 팀 구성, 대외 공모전 최우수상(1위) 수상
+
+</details>
+
+
+<details>
+<summary><strong>☁️ 구름톤 유니브 4기 백엔드 운영진 (2025.01 - 2025.12)</strong></summary>
+<br/>
+
+- **Process**: GitHub Projects·Issues 기반 협업 워크플로우 표준화 도입
+- **Code Review**: DB 스키마·서버 아키텍처·코드 리뷰 및 트레이드오프 기반 피드백 제공
+- **Study Lead**: Redis·RabbitMQ·동시성 제어·모니터링 등 고트래픽/아키텍처 주제 기술 스터디 주도
+
+</details>
 
 <br/>
 
