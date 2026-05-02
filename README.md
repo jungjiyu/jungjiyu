@@ -23,7 +23,7 @@
 ## 💗 Featured Projects
 
 <details>
-<summary><strong>🏆 OCEAN-KIT : 공간 데이터 처리, Hybrid RAG, 이벤트 기반 ML 파이프라인을 하나의 운영형 구조로 통합한 해양 복원 성과 분석 플랫폼</strong></summary>
+<summary><strong>🏆 OCEAN-KIT : 공간 데이터 처리, RAG, ML 파이프라인을 통합한 해양 복원 성과 분석 플랫폼</strong></summary>
 <br/>
 
 > 과학기술정보통신부 주최, 제15회 ICT 피우다프로젝트 최우수상(정보통신산업진흥원장상, 1위) 수상
