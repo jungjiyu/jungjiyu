@@ -104,9 +104,18 @@
 
 </details>
 
+<details>
+<summary><strong>🔬 <a href="http://compiler.korea.ac.kr/">Compiler & Microarchitecture Lab</a> 학부 연구생 (2026.07 - 현재)</strong></summary>
+<br/>
+
+- **Quantized GEMV NPU**: LLM decode의 Q4_0 weight × Q8_0 activation GEMV를 가속하는 weight-streaming NPU를 설계하고 RTL로 구현
+- **Streaming Microarchitecture**: 128-bit DDR 입력부터 Q4_0 block assembly, Q4/Q8 stream synchronization, integer dot-product·accumulation까지 이어지는 pipelined datapath 설계
+- **RISC-V SoC Integration**: NPU를 LiteX/VexRiscv 기반 SoC에 통합해 FPGA에서 구동하고, source gap·stall·backpressure를 포함한 stress test에서 4,104개 결과 mismatch 0 검증
+
+</details>
 
 <details>
-<summary><strong>🔬 CILAB 학부 연구생 (2024.03 - 2026.03)</strong></summary>
+<summary><strong>🔬 <a href="https://sites.google.com/view/ci-lab-at-kit/projects">CILAB</a> 학부 연구생 (2024.03 - 2026.03)</strong></summary>
 <br/>
 
 - **Lab Infrastructure**: Prometheus(node_exporter, cAdvisor) + Grafana 기반 연구실 서버 통합 관측 환경 구축
@@ -114,6 +123,7 @@
 - **Research Engineering**: 이기종 문서 메타정보 추출·통합 및 자동 지식 그래프 구축 기반 RAG 연구 수행
 
 </details>
+
 <br/>
 
 ## 💗 Leadership & Community
